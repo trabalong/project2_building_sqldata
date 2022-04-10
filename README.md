@@ -11,7 +11,7 @@
 #### Upload cleaned and oragnized csv datas.
 #### Create SQL database and upload cleaned csv datas
 
-![database] (database.png)
+![database] (images/database.png)
 
 ## SQL queries
 #### Select films, category and starring.
