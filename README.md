@@ -5,18 +5,20 @@
 ## It's show time, folks!
 
 ## code.ipynb
-### Update all csv datas with pandas.to_csv() and looking for nulls in graphic null of csv datas.
-### Modify columns data and cleaning nulls.
-### Create film dataframe with all values from anothers cleaned tables.
-### Upload cleaned and oragnized csv datas.
-### Create SQL database and upload cleaned csv datas
+#### Update all csv datas with pandas.to_csv() and looking for nulls in graphic null of csv datas.
+#### Modify columns data and cleaning nulls.
+#### Create film dataframe with all values from anothers cleaned tables.
+#### Upload cleaned and oragnized csv datas.
+#### Create SQL database and upload cleaned csv datas
+
+![database] (database.png)
 
 ## SQL queries
-### Select films, category and starring.
-### Find actor.
-### Select films and them inventory information.
-### Show language's films.
-### Select films order by rating.
-### Ranking category films.
-### Select films and them rental information.
-### Create temporary table of actor for use.
+#### Select films, category and starring.
+#### Find actor.
+#### Select films and them inventory information.
+#### Show language's films.
+#### Select films order by rating.
+#### Ranking category films.
+#### Select films and them rental information.
+#### Create temporary table of actor for use.
