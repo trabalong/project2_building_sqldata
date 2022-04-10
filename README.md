@@ -11,9 +11,7 @@
 #### Upload cleaned and oragnized csv datas.
 #### Create SQL database and upload cleaned csv datas
 
-<img src="database.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+![alt text](https://github.com/trabalong/project2_building_sqldata/tree/main/images/database.png)
 
 ## SQL queries
 #### Select films, category and starring.
