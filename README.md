@@ -11,7 +11,7 @@
 #### Upload cleaned and oragnized csv datas.
 #### Create SQL database and upload cleaned csv datas
 
-![alt text](https://github.com/trabalong/project2_building_sqldata/blob/main/images/database.png?raw=true)
+![](https://github.com/trabalong/project2_building_sqldata/blob/main/images/database.png?raw=true)
 
 ## SQL queries
 #### Select films, category and starring.
