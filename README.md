@@ -1,6 +1,6 @@
 # DATABASE VIDEO STORE CLEANING AND CREATING
 
-### My friend is a disaster when we talk about management of data from his business, but I'm el putísimo amo loko cleaning and organizing data, so I'm going to tell you how I did it.
+### My friend is a disaster when we talk about management of data from his business and I'm goint to help him cleaning and organizing data, so I'm going to tell you how I did it.
 
 ## It's show time, folks!
 
