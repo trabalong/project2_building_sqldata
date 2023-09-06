@@ -1,4 +1,4 @@
-# DATABASE VIDEO STORE CLEANING AND CREATING
+# DATABASE VIDEO STORE CLEANING AND BUILDING 
 
 ### My friend is a disaster when we talk about management of data from his business and I'm goint to help him cleaning and organizing data, so I'm going to tell you how I did it.
 
